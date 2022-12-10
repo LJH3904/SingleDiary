@@ -22,6 +22,7 @@ public class Note {
 
     }
 
+<<<<<<< HEAD
     public int get_id() {
         return _id;
     }
@@ -93,4 +94,6 @@ public class Note {
     public void setCreateDateStr(String createDateStr) {
         this.createDateStr = createDateStr;
     }
+=======
+>>>>>>> origin/master
 }
